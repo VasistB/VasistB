@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VasistB
 - 👀 I’m interested in Android dev
-- 🌱 I’m currently learning java & Kotlin
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
